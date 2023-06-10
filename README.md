@@ -1,2 +1,1 @@
-read now
-this is my readme 
+readme is mine
